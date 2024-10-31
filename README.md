@@ -1,2 +1,2 @@
-# Google Clone
- 🎲This project is a clone of Google’s homepage, created with HTML and CSS to practice web layout and accessible design. I aimed to replicate Google’s minimalist interface, paying close attention to element structure, centering, and alignment using Flexbox and positioning techniques. A particular focus was placed on accessible design for interactive elements, like buttons, ensuring they meet accessibility standards by implementing clear labels, sufficient contrast, and a responsive layout. This project helped me refine my understanding of user-friendly, accessible interfaces and improve my layout and styling skills.🎲
+# Google Clone 🚀
+ 🎲A replica of Google’s homepage built with HTML and CSS. Focused on layout alignment, Flexbox, and accessible button design, enhancing skills in responsive, user-friendly web interfaces.🎲
